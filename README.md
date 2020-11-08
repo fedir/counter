@@ -1,5 +1,6 @@
 ## Counter
 
+* Shows unique instance ID
 * Shows the time since the server start
 * Shows numbers of visits (unique requests)
 
